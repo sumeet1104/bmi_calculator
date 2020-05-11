@@ -1,0 +1,6 @@
+:root {
+  background: url(./background.jpg);
+  background-size: contain;
+  background-position: top;
+  background: cover;
+}
